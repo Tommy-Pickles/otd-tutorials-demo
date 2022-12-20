@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/otd-tutorials-demo/static/css/main.073c9b0a.css",
+    "main.js": "/otd-tutorials-demo/static/js/main.ee519deb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/otd-tutorials-demo/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logoMobile.svg": "/otd-tutorials-demo/static/media/logoMobile.1b06bd40a23a85255ef130704cef0f33.svg",
+    "index.html": "/otd-tutorials-demo/index.html",
+    "main.073c9b0a.css.map": "/otd-tutorials-demo/static/css/main.073c9b0a.css.map",
+    "main.ee519deb.js.map": "/otd-tutorials-demo/static/js/main.ee519deb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/otd-tutorials-demo/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ee519deb.js"
+  ]
+}
